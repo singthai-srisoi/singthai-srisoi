@@ -20,4 +20,4 @@ Hi, I am Singthai Srisoi. I am a student currently studying in 🏫[Universiti T
 
 ## 📁  Project
 This is come project I've been working on.
-- (BINARY BRAIN Quatation Management System)[https://github.com/singthai-srisoi/school-assignment/tree/main/binarybrain]
+- [BINARY BRAIN Quatation Management System](https://github.com/singthai-srisoi/school-assignment/tree/main/binarybrain)
