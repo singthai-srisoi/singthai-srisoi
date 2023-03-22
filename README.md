@@ -30,9 +30,29 @@ Hi, I am Singthai Srisoi. I am a student currently studying in 🏫[Universiti T
 
 
 ## GitHub Status
-<img src="https://github-readme-stats.vercel.app/api?username=singthai-srisoi&show_icons=true&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=singthai-srisoi&layout=compact&theme=dark"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=singthai-srisoi&theme=dark"/>
+
+<html>
+<style>
+    .parent {
+display: grid;
+grid-template-columns: repeat(2, 1fr);
+grid-template-rows: repeat(2, 1fr);
+grid-column-gap: 0px;
+grid-row-gap: 0px;
+}
+
+.div1 { grid-area: 1 / 1 / 2 / 2; }
+.div2 { grid-area: 1 / 2 / 2 / 3; }
+.div3 { grid-area: 2 / 1 / 3 / 3; }
+</style>
+<body>
+<div class="parent">
+<div class="div1"> <img src="https://github-readme-stats.vercel.app/api?username=singthai-srisoi&show_icons=true&theme=dark"/></div>
+<div class="div2"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=singthai-srisoi&layout=compact&theme=dark"/> </div>
+<div class="div3"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=singthai-srisoi&theme=dark"/></div>
+</div>
+</body>
+</html>
 
 ## 📁  Project
 This is come project I've been working on.
