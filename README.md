@@ -24,7 +24,6 @@ Hi, I am Singthai Srisoi. I am a student currently studying in 🏫[Universiti T
 <img src="https://github-readme-stats.vercel.app/api?username=singthai-srisoi&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=singthai-srisoi&layout=compact"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=singthai-srisoi"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=singthai-srisoi&repo=github_profile"/>
 
 ## 📁  Project
 This is come project I've been working on.
