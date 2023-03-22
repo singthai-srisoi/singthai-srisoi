@@ -48,5 +48,3 @@ This is come project I've been working on.
     <summary><b>✨Joke</b></summary><br/>
     <img src="https://readme-jokes.vercel.app/api">
 </details>
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
