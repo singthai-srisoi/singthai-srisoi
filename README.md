@@ -1,7 +1,6 @@
 <img src="https://github.com/singthai-srisoi/singthai-srisoi/blob/main/Singthai%20Srisoi.gif">
 
 <img src="https://img.shields.io/github/followers/singthai-srisoi?style=for-the-badge">
-<img src="https://img.shields.io/github/gist/stars/singthai-srisoi?style=for-the-badge">
 
 ## Hi there 👋  
 * 👂 My name is **Singthai Srisoi**  
