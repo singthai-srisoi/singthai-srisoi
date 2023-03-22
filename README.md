@@ -48,5 +48,3 @@ This is come project I've been working on.
     <summary><h2>✨Joke</h2></summary><br/>
     <img src="https://readme-jokes.vercel.app/api">
 </details>
-
-<img src="https://api.giphy.com/v1/gifs/random?api_key=&tag=meme&rating=g">
