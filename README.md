@@ -28,19 +28,11 @@ Hi, I am Singthai Srisoi. I am a student currently studying in 🏫[Universiti T
     <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
 </a>
 
-| Programming Language | Rating |
-|:-------|:-----------|
-|**PYTHON** |⭐⭐⭐⭐|
-|**JAVA** |⭐⭐|
-|**C++** |⭐⭐⭐⭐|
-|**JAVASCRIPT** |⭐⭐|
-|**PHP** |⭐⭐⭐|
-|**HTML** |⭐⭐⭐⭐|
-|**CSS** |⭐⭐⭐⭐|
 
-<img src="https://github-readme-stats.vercel.app/api?username=singthai-srisoi&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=singthai-srisoi&layout=compact"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=singthai-srisoi"/>
+## GitHub Status
+<img src="https://github-readme-stats.vercel.app/api?username=singthai-srisoi&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=singthai-srisoi&layout=compact&theme=dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=singthai-srisoi&theme=dark"/>
 
 ## 📁  Project
 This is come project I've been working on.
