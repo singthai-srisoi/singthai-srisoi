@@ -1,10 +1,9 @@
-# Hi 👋
-Hi, I am Singthai Srisoi. I am a student currently studying in 🏫[Universiti Teknologi Malaysia](https://www.utm.my/)
-
-## ✨  About Me
-🖥️ I am in year three **Data Engineering**  <br />
-🎶 I like listening to music   <br />
-🤖 I like to see creative, weird and funny programming project   <br />
+## Hi there 👋  
+* 👂 My name is **Singthai Srisoi**  
+* 🖥️ I’m currently taking **Data Engeneering** course
+* 🌱 I’m currently studying at **Universiti Teknologi Malaysia**
+* ❤️ I love listening to music 
+* 🤖 I like to see creative, weird and funny programming project
 
 ## 🤹  Skills
 👍In my three year of study, I learnt some programming language.
