@@ -12,6 +12,21 @@ Hi, I am Singthai Srisoi. I am a student currently studying in 🏫[Universiti T
 <a href="https://www.python.org/">
     <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 </a>
+<a href="https://www.java.com/">
+    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+</a>
+<a href="https://www.w3schools.com/cpp/">
+    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+</a>
+<a href="https://www.javascript.com/">
+    <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg"/>
+</a>
+<a href="https://www.w3.org/html/">
+    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
+</a>
+<a href="https://www.w3schools.com/css/">
+    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
+</a>
 
 | Programming Language | Rating |
 |:-------|:-----------|
