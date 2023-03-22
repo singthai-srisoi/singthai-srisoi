@@ -23,6 +23,8 @@ Hi, I am Singthai Srisoi. I am a student currently studying in 🏫[Universiti T
 |**HTML** |⭐⭐⭐⭐|
 |**CSS** |⭐⭐⭐⭐|
 
+<img src="https://github-readme-stats.vercel.app/api?username=singthai-srisoi&show_icons=true"/>
+
 ## 📁  Project
 This is come project I've been working on.
 - [BINARY BRAIN Quatation Management System](https://github.com/singthai-srisoi/school-assignment/tree/main/binarybrain)
