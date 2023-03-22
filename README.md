@@ -9,7 +9,9 @@ Hi, I am Singthai Srisoi. I am a student currently studying in 🏫[Universiti T
 ## 🤹  Skills
 👍In my three year of study, I learnt some programming language.
 
-
+<a href="https://www.python.org/">
+    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+</a>
 
 | Programming Language | Rating |
 |:-------|:-----------|
