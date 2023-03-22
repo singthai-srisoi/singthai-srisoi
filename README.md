@@ -1,3 +1,5 @@
+<img src="https://github.com/singthai-srisoi/singthai-srisoi/blob/main/Singthai%20Srisoi.gif">
+
 ## Hi there 👋  
 * 👂 My name is **Singthai Srisoi**  
 * 🖥️ I’m currently taking **Data Engeneering** course
