@@ -45,6 +45,6 @@ This is come project I've been working on.
 - [BINARY BRAIN Quatation Management System](https://github.com/singthai-srisoi/school-assignment/tree/main/binarybrain)
 
 <details>
-    <summary><b>✨Joke</b></summary><br/>
+    <summary><h2>✨Joke</h2></summary><br/>
     <img src="https://readme-jokes.vercel.app/api">
 </details>
