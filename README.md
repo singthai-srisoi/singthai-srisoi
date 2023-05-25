@@ -31,6 +31,10 @@
     <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
 </a>
 
+## 📁  Project
+This is come project I've been working on.
+- [BINARY BRAIN Quatation Management System](https://github.com/singthai-srisoi/school-assignment/tree/main/binarybrain)
+- [Employee Management System using Angular and .NET](https://github.com/singthai-srisoi/employee-management/tree/main)
 
 ## 📖  GitHub Status
 
@@ -38,11 +42,6 @@
 <div class="div2"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=singthai-srisoi&layout=compact&theme=dark"/> </div>
 <div class="div3"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=singthai-srisoi&theme=dark"/></div>
 </div>
-
-
-## 📁  Project
-This is come project I've been working on.
-- [BINARY BRAIN Quatation Management System](https://github.com/singthai-srisoi/school-assignment/tree/main/binarybrain)
 
 <details>
     <summary><h2>✨Joke</h2></summary><br/>
