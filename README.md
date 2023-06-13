@@ -35,6 +35,7 @@
 This is come project I've been working on.
 - [BINARY BRAIN Quatation Management System](https://github.com/singthai-srisoi/school-assignment/tree/main/binarybrain)
 - [Employee Management System using Angular and .NET](https://github.com/singthai-srisoi/employee-management/tree/main)
+- [404Error - EDA](https://github.com/singthai-srisoi/Python_EDA/tree/main)
 
 ## 📖  GitHub Status
 
