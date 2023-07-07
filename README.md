@@ -36,6 +36,15 @@ This is come project I've been working on.
 - [BINARY BRAIN Quatation Management System](https://github.com/singthai-srisoi/school-assignment/tree/main/binarybrain)
 - [Employee Management System using Angular and .NET](https://github.com/singthai-srisoi/employee-management/tree/main)
 - [404Error - Exploratory Data Analysis](https://github.com/singthai-srisoi/Python_EDA/tree/main)
+https://github.com/singthai-srisoi/fyp1
+| Project Name | Team | Link |
+|:----:|:----:|:-----:|
+| Quatation Management System | BINARY BRAIN | [📁](https://github.com/singthai-srisoi/school-assignment/tree/main/binarybrain) |
+| Employee Management System | Self | [📁](https://github.com/singthai-srisoi/employee-management/tree/main) |
+| Exploratory Data Analysis | 404Error | [📁](https://github.com/singthai-srisoi/Python_EDA/tree/main) |
+| Rental Management System | GadgeTech | [📁]() |
+| FYP1 System | Self | [📁](https://github.com/singthai-srisoi/fyp1) |
+
 
 ## 📖  GitHub Status
 
