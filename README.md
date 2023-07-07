@@ -37,6 +37,8 @@ This is come project I've been working on.
 - [Employee Management System using Angular and .NET](https://github.com/singthai-srisoi/employee-management/tree/main)
 - [404Error - Exploratory Data Analysis](https://github.com/singthai-srisoi/Python_EDA/tree/main)
 https://github.com/singthai-srisoi/fyp1
+
+
 | Project Name | Team | Link |
 |:----:|:----:|:-----:|
 | Quatation Management System | BINARY BRAIN | [📁](https://github.com/singthai-srisoi/school-assignment/tree/main/binarybrain) |
