@@ -35,7 +35,7 @@
 This is come project I've been working on.
 
 | Project Name | Team | Date | Link |
-|:----|:----:|:-----:|
+|:----|:----:|:----:|:-----:|
 | Rental Management System | GadgeTech | 2023 | [📁](https://github.com/singthai-srisoi/AD) |
 | FYP1 System | Self | 2023 | [📁](https://github.com/singthai-srisoi/fyp1) |
 | Employee Management System | Self | 2023 | [📁](https://github.com/singthai-srisoi/employee-management/tree/main) |
