@@ -37,8 +37,8 @@ This is come project I've been working on.
 | Project Name | Team | Date | Link |
 |:----|:----:|:----:|:-----:|
 | Rental Management System | GadgeTech | 2023 | [📁](https://github.com/singthai-srisoi/AD) |
-| FYP1 System | Self | 2023 | [📁](https://github.com/singthai-srisoi/fyp1) |
-| Employee Management System | Self | 2023 | [📁](https://github.com/singthai-srisoi/employee-management/tree/main) |
+| FYP1 System | Individual | 2023 | [📁](https://github.com/singthai-srisoi/fyp1) |
+| Employee Management System | Individual | 2023 | [📁](https://github.com/singthai-srisoi/employee-management/tree/main) |
 | Exploratory Data Analysis | 404Error | 2022 | [📁](https://github.com/singthai-srisoi/Python_EDA/tree/main) |
 | Quatation Management System | BINARY BRAIN | 2021 | [📁](https://github.com/singthai-srisoi/school-assignment/tree/main/binarybrain) |
 
