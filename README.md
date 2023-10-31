@@ -36,6 +36,7 @@ This is come project I've been working on.
 
 | Project Name | Team | Date | Link |
 |:----|:----:|:----:|:-----:|
+| Energy Monitoring System | Hack Crab | 2023 | [📁](https://github.com/singthai-srisoi/hack-crab) |
 | Rental Management System | GadgeTech | 2023 | [📁](https://github.com/singthai-srisoi/AD) |
 | FYP1 System | Individual | 2023 | [📁](https://github.com/singthai-srisoi/fyp1) |
 | Employee Management System | Individual | 2023 | [📁](https://github.com/singthai-srisoi/employee-management/tree/main) |
